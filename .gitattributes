@@ -1,0 +1,5 @@
+# Unix-style end-of-line (EOL) characters for all text files.
+
+# Explanation by Aleksandr Hovhannisyan found here: https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git.
+
+* text=auto
